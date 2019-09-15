@@ -3,7 +3,7 @@ package com.asjngroup.graphql.springbootgrapqlexample.service;
 import com.asjngroup.graphql.springbootgrapqlexample.model.Book;
 import com.asjngroup.graphql.springbootgrapqlexample.repository.BookRepository;
 import com.asjngroup.graphql.springbootgrapqlexample.service.datafetcher.AllBooksDataFetcher;
-import com.techprimers.graphql.springbootgrapqlexample.service.datafetcher.BookDataFetcher;
+import com.asjngroup.graphql.springbootgrapqlexample.service.datafetcher.BookDataFetcher;
 import graphql.GraphQL;
 import graphql.schema.GraphQLSchema;///
 import graphql.schema.idl.RuntimeWiring;

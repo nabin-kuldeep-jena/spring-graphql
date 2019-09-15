@@ -1,4 +1,4 @@
-package com.techprimers.graphql.springbootgrapqlexample.service.datafetcher;
+package com.asjngroup.graphql.springbootgrapqlexample.service.datafetcher;
 
 import com.asjngroup.graphql.springbootgrapqlexample.model.Book;
 import com.asjngroup.graphql.springbootgrapqlexample.repository.BookRepository;

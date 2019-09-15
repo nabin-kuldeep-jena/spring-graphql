@@ -1,6 +1,6 @@
 package com.asjngroup.graphql.springbootgrapqlexample.resource;
 
-import com.techprimers.graphql.springbootgrapqlexample.service.GraphQLService;
+import com.asjngroup.graphql.springbootgrapqlexample.service.GraphQLService;
 import graphql.ExecutionResult;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
